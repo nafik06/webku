@@ -36,8 +36,8 @@ html {
     height: 80vh;
 }
 .img-content {
-    width :30%;
-    height: 30%;
+    width :400px;
+    //height: 30%;//
 }
 
 .container-footer {
